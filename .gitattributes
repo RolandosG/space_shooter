@@ -1,13 +1,1 @@
-*.png filter=lfs diff=lfs merge=lfs -text
-*.unitypackage filter=lfs diff=lfs merge=lfs -text
-Assets/Firebase/Plugins/x86_64/FirebaseCppApp-10_7_0.so filter=lfs diff=lfs merge=lfs -text
-Assets/Plugins/iOS/Firebase/libFirebaseCppFirestore.a filter=lfs diff=lfs merge=lfs -text
-Assets/StarSparrow/SubstancePainter/StarSparrow.spp filter=lfs diff=lfs merge=lfs -text
-Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
-Assets/Firebase/Plugins/x86_64/FirebaseCppApp-10_7_0.bundle filter=lfs diff=lfs merge=lfs -text
-Assets/Firebase/Plugins/x86_64/FirebaseCppApp-10_7_0.so filter=lfs diff=lfs merge=lfs -text
-Assets/Firebase/Plugins/x86_64/FirebaseCppApp-10_7_0.bundle filter=lfs diff=lfs merge=lfs -text
-Assets/Firebase/Plugins/x86_64/*.bundle filter=lfs diff=lfs merge=lfs -text
-Assets/Firebase/Plugins/iOS/*.a filter=lfs diff=lfs merge=lfs -text
-Assets/StarSparrow/SubstancePainter/*.spp filter=lfs diff=lfs merge=lfs -text
-E:/Unity[[:space:]]game[[:space:]]dev/Platforming[[:space:]]runner/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-10_7_0.so filter=lfs diff=lfs merge=lfs -text
+
